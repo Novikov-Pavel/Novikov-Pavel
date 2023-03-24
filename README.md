@@ -1,4 +1,4 @@
-<img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/preview.png">
+<img src="https://github.com/Novikov-Pavel/Novikov-Pavel/blob/main/4ef521ada71e9353dd89614050a473a8248ee38f0b13a698a2a5c0c78cd0bcc4.png">
 
 <div align="center">
   <a href="https://www.youtube.com/c/YauhenKavalchuk?sub_confirmation=1">
