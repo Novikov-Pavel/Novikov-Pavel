@@ -14,7 +14,7 @@
 <a href="https://t.me/VEGA511/">
   <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://wa.me/79652053410/">
+<a href="https://wa.me/message/6AVTZZMGL7QTL1/">
   <img src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://vk.com/novikov_vega/">
