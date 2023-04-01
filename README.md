@@ -35,6 +35,7 @@
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
 <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=fff" />&nbsp;
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=fff" />&nbsp;
+<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=Sequelize&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
