@@ -48,4 +48,4 @@
 
 ---
 
-💻 Codewars: <a href="https://www.codewars.com/users/Novikov-Pavel/"><img src="https://img.shields.io/badge/codewars-B1361E.svg?&style=for-the-badge&logo=codewarsk&logoColor=white" /></a>
+💻 Codewars: <a href="https://www.codewars.com/users/Novikov-Pavel/"><img src="https://img.shields.io/badge/Codewars-B1361E.svg?&style=for-the-badge&logo=Codewars&logoColor=white" /></a>
