@@ -31,16 +31,20 @@
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
-<img alt="react" src="https://img.shields.io/badge/mobx-FF9955.svg?&style=for-the-badge&logo=mobx&logoColor=fff" />&nbsp;
+<img alt="mobx" src="https://img.shields.io/badge/mobx-FF9955.svg?&style=for-the-badge&logo=mobx&logoColor=fff" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+<img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=fff" />&nbsp;
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=adobe-figma&logoColor=fff" />&nbsp;
+<img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=adobe-figma&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=fff" />&nbsp;
+<img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4.svg?&style=for-the-badge&logo=Axios&logoColor=fff" />&nbsp;
 
 ---
 
