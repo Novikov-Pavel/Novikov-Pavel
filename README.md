@@ -45,7 +45,8 @@
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=fff" />&nbsp;
 <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4.svg?&style=for-the-badge&logo=Axios&logoColor=fff" />&nbsp;
-<img alt="Axios" src="https://img.shields.io/badge/Nodemon-339933.svg?&style=for-the-badge&logo=Nodemon&logoColor=fff" />&nbsp;
+<img alt="Nodemon" src="https://img.shields.io/badge/c-339933.svg?&style=for-the-badge&logo=Nodemon&logoColor=fff" />&nbsp;
+<img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=fff" />&nbsp;
 
 
 ---
