@@ -10,7 +10,6 @@
 - 📚 Self-taught the frontend
 
 ### 🤝 Connect with me:
-
 <a href="https://t.me/react_jobfrontend/">
   <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -20,6 +19,7 @@
 <a href="https://vk.com/novikov_vega/">
   <img src="https://img.shields.io/badge/vk-0077FF.svg?&style=for-the-badge&logo=vk&logoColor=white" />
 </a>
+<a href="mailto:react@jobfrontend.ru"><img alt="" src="https://static.tildacdn.com/tild3334-3665-4263-b964-373834323762/yan.png" height=25 width=80/></a> 
 
 ---
 
