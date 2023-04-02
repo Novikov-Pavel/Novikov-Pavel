@@ -43,7 +43,7 @@
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-222.svg?&style=for-the-badge&logo=GitHub Pages&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
-<img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=adobe-figma&logoColor=fff" />&nbsp;
+<img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=fff" />&nbsp;
 <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4.svg?&style=for-the-badge&logo=Axios&logoColor=fff" />&nbsp;
