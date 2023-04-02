@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://vk.com/im?sel=2186911">
-  <img src="https://img.shields.io/badge/vk-0077FF.svg?&style=for-the-badge&logo=vk&logoColor=white" />
+  <img src="https://img.shields.io/badge/вконтакте-0077FF.svg?&style=for-the-badge&logo=vk&logoColor=white" />
 </a>
 <a href="mailto:react@jobfrontend.ru"><img alt="" src="https://static.tildacdn.com/tild3334-3665-4263-b964-373834323762/yan.png" height=25 width=80/></a> 
 
