@@ -61,4 +61,6 @@
 
 ---
 
-💻 Codewars: <a href="https://www.codewars.com/users/Novikov-Pavel/"><img src="https://img.shields.io/badge/Codewars-B1361E.svg?&style=for-the-badge&logo=Codewars&logoColor=white" /></a>
+<a href="https://www.codewars.com/users/Novikov-Pavel/"><img src="https://www.codewars.com/users/Novikov-Pavel/badges/small" /></a>
+
+
