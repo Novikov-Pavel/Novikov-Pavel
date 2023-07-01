@@ -61,6 +61,6 @@
 
 ---
 
-<a href="https://www.codewars.com/users/Novikov-Pavel/"><img src="https://www.codewars.com/users/Novikov-Pavel/badges/small" /></a>
+<a href="https://www.codewars.com/users/Novikov-Pavel/" target="_blank"><img src="https://www.codewars.com/users/Novikov-Pavel/badges/small" /></a>
 
 
