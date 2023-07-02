@@ -57,6 +57,7 @@
 <img alt="yarn" src="https://img.shields.io/badge/yarn-2C8EBB.svg?&style=for-the-badge&logo=yarn&logoColor=fff" />&nbsp;
 <img alt="webpack" src="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=fff" />&nbsp;
 <img alt="create react app" src="https://img.shields.io/badge/create react app-09D3AC.svg?&style=for-the-badge&logo=create react app&logoColor=fff" />&nbsp;
+<img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=for-the-badge&logo=Babel&logoColor=fff" />&nbsp;
 
 
 ---
