@@ -16,6 +16,9 @@
 <a href="https://wa.me/message/6AVTZZMGL7QTL1/">
   <img src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+<a href="www.linkedin.com/in/novikoff-pavel">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:react@jobfrontend.ru"><img alt="" src="https://static.tildacdn.com/tild3334-3665-4263-b964-373834323762/yan.png" height=25 width=80/></a> 
 
 ---
