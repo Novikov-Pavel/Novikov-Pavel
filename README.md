@@ -1,4 +1,4 @@
-<img src="https://github.com/Novikov-Pavel/Novikov-Pavel/blob/main/logo.png">
+<img src="https://github.com/Novikov-Pavel/Novikov-Pavel/blob/main/baner_linkedIn.jpg">
 
 ### Hi all, I'm Pavel
 
