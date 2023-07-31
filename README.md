@@ -12,7 +12,7 @@
 ### 🤝 Connect with me:
 <a href="https://t.me/react_jobfrontend/">
   <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=28 width=110 />
-</a>
+</a> 
 <a href="https://wa.me/79778129630/">
   <img src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height=28 width=110 />
 </a>
