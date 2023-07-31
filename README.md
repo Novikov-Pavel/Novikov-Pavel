@@ -2,7 +2,7 @@
 
 ### Hi all, I'm Pavel
 
-## I'm a Frontend Dev
+## I'm a Frontend Developer
 
 - 📍 I’m From Russia (Moscow)
 - 💻 I decided to learn a new specialty and become a front-end developer
