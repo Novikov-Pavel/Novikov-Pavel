@@ -39,7 +39,6 @@
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
 <img alt="mobx" src="https://img.shields.io/badge/mobx-FF9955.svg?&style=for-the-badge&logo=mobx&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
-<img alt="vuetify" src="https://img.shields.io/badge/vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=fff" />&nbsp;
 <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
 <img alt="testinglibrary" src="https://img.shields.io/badge/react testing library-E33332.svg?&style=for-the-badge&logo=testinglibrary&logoColor=fff" />&nbsp;
 
