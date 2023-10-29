@@ -29,7 +29,8 @@
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="css modules" src="https://img.shields.io/badge/css modules-000000.svg?&style=for-the-badge&logo=css modules&logoColor=fff" />&nbsp;
 <img alt="BEM" src="https://img.shields.io/badge/BEM-000000.svg?&style=for-the-badge&logo=BEM&logoColor=fff" />&nbsp;
-<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-050A14.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
+<img alt="Quasar" src="https://img.shields.io/badge/Quasar-7610F7.svg?&style=for-the-badge&logo=Quasar&logoColor=fff" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
