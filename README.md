@@ -10,7 +10,7 @@
 - 📚 Self-taught the frontend
 
 ### 🤝 Connect with me:
-<a href="https://t.me/react_jobfrontend/">
+<a href="https://t.me/novikov_jobfrontend/">
   <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=28 width=110 />
 </a> 
 <a href="https://wa.me/79778129630/">
@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/Novikoff-Pavel">
   <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=28 width=110/>
 </a>
-<a href="mailto:react@jobfrontend.ru"><img alt="" src="https://static.tildacdn.com/tild3334-3665-4263-b964-373834323762/yan.png" height=28 width=110/></a> 
+<a href="mailto:novikov@jobfrontend.ru"><img alt="" src="https://static.tildacdn.com/tild3334-3665-4263-b964-373834323762/yan.png" height=28 width=110/></a> 
 
 ---
 
