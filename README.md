@@ -38,6 +38,7 @@
 <img alt="testinglibrary" src="https://img.shields.io/badge/react testing library-E33332.svg?&style=for-the-badge&logo=testinglibrary&logoColor=fff" />&nbsp;
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 <img alt="d3.js" src="https://img.shields.io/badge/D3-F9A03C.svg?&style=for-the-badge&logo=d3dotjs&logoColor=fff" />&nbsp;
+<img alt="shadcnui" src="https://img.shields.io/badge/shadcn/ui-000000.svg?&style=for-the-badge&logo=shadcnui&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="css modules" src="https://img.shields.io/badge/css modules-000000.svg?&style=for-the-badge&logo=css modules&logoColor=fff" />&nbsp;
 <img alt="BEM" src="https://img.shields.io/badge/BEM-000000.svg?&style=for-the-badge&logo=BEM&logoColor=fff" />&nbsp;
