@@ -32,6 +32,7 @@
 <img alt="React Router" src="https://img.shields.io/badge/React Router-CA4245.svg?&style=for-the-badge&logo=React Router&logoColor=fff" />&nbsp;
 <img alt="Quasar" src="https://img.shields.io/badge/Quasar-7610F7.svg?&style=for-the-badge&logo=Quasar&logoColor=fff" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-050A14.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
+<img alt="tailwindcss" src="https://img.shields.io/badge/tailwind css-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="mobx" src="https://img.shields.io/badge/mobx-FF9955.svg?&style=for-the-badge&logo=mobx&logoColor=fff" />&nbsp;
 <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
