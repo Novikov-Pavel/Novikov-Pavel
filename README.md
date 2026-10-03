@@ -2,7 +2,7 @@
 
 ### Hi all, I'm Pavel
 
-## I'm a Middle+ Frontend Developer
+## I'm a Senior Frontend Developer
 
 - 📍 I’m From Russia (Moscow)
 - 💻 Senior Frontend Developer с 5-летним опытом в разработке высоконагруженных систем (Vue.js 2/3, React 18, TypeScript)
