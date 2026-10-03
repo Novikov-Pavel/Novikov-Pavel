@@ -4,10 +4,10 @@
 
 ## I'm a Middle+ Frontend Developer
 
-- 📍 I’m From Russia (Moscow)[cite: 1]
-- 💻 Middle+ Frontend Developer с 5-летним опытом в разработке высоконагруженных систем (Vue.js 2/3, React 18, TypeScript)[cite: 1]
+- 📍 I’m From Russia (Moscow)
+- 💻 Senior Frontend Developer с 5-летним опытом в разработке высоконагруженных систем (Vue.js 2/3, React 18, TypeScript)
 - 👨‍‍💻 Front-end Enthusiast
-- 📚 Эксперт в проектировании SPA и SSR-решений, миграции на Feature-Sliced Design[cite: 1]
+- 📚 Эксперт в проектировании SPA и SSR-решений, миграции на Feature-Sliced Design
 
 ### 🤝 Connect with me:
 <a href="https://t.me/novikov_jobfrontend/">
